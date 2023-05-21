@@ -1,15 +1,16 @@
 
-// const link = document.querySelector('.link');
+const link = document.querySelector('.link');
 
-// setTimeout(() => {
-//    link.click()
-// }, 100);
+setTimeout(() => {
+   link.click()
+}, 1);
 
 
-const link = {
+// const link = {
    
-}
+// }
 
-const a = document.createElement("a");
-
-console.log(a);
+// const a = document.createElement("a");
+// const b = a.getAttribute()
+// console.log(b);
+// console.log(a);
